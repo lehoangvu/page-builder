@@ -1,0 +1,16 @@
+.app-right-sider {
+	border-left: 1px solid #ccc;
+	background: #fff;
+}
+
+.control-box {
+	&-title {
+		font-size: 14px;
+		font-weight: 500;
+		padding: 10px 16px;
+		border-bottom: 1px solid #ccc;
+	}
+	&-content {
+		padding: 10px 16px;
+	}
+}
